@@ -8,10 +8,7 @@ import hashlib
 import base64
 from googlesearch import search
 
-# AniList API credentials
-CLIENT_ID = "35943"
-CLIENT_SECRET = "9SptQ0cAx1V3JfGHPuIfaboRpmODrwOPt5rxAKSr"
-REDIRECT_URI = "http://localhost:8080"  # Must match the redirect URI registered in your AniList app
+
 
 # MyAnimeList API credentials
 MAL_CLIENT_ID = "3c62305cf76ab3bc1bf5ec5b80022e37"
